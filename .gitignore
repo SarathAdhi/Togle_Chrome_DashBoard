@@ -8,8 +8,8 @@
 # testing
 /coverage
 
-# production
-/build
+.vscode
+
 
 firebase.js
 secret_calenderAPI.json
