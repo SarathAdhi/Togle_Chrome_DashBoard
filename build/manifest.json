@@ -1,6 +1,6 @@
 {
   "name": "Togly",
-  "description": "The power of React and TypeScript for building interactive Chrome extensions",
+  "description": "A clean and modern look to your default Chrome homepage. A Chrome dashboard.",
   "version": "1.0",
   "manifest_version": 3,
   "host_permissions": ["https://newsapi.org/*"],
